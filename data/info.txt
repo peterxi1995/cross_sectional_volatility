@@ -1,0 +1,8 @@
+vix: vix
+vvix: vix of vix
+rvx: Russell 2000
+vxn: NASDAQ100
+ovx: Crude Oil ETF (USO)
+gvz: Gold etf (GLD)
+vxef: EAFE Index (EFA)
+
